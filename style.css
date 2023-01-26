@@ -17,7 +17,7 @@ main {
     align-items: center;
     justify-content: center;
     background-color: #fff;
-    padding: 60px;
+    padding: 70px 50px 50px;
     text-align: center;
 }
 
@@ -28,7 +28,8 @@ main {
 h1 {
     color: rgb(197, 196, 196);
     font-weight: 300;
-    margin: 20px 0 10px;
+    font-size: 50px;
+    margin: 40px 0 10px;
 }
 h1 span {
     color: #111;
@@ -45,7 +46,7 @@ p:first-of-type {
     align-items: flex-start;
     justify-content: center;
     width: 100%;
-    padding: 30px 20px;
+    padding: 40px 20px ;
 }
 .input-box {
     width: 400px;
@@ -148,5 +149,8 @@ p:first-of-type {
     }
     .img2 {
         width: 90%;
+    }
+    h1 {
+        font-size: 40px;
     }
 }
